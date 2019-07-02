@@ -1,0 +1,7 @@
+
+\.vscode/
+force-abi2hex/force-abi2hex
+vendor/
+*.config
+*.log
+*.json
